@@ -62,7 +62,6 @@ class MyApp extends StatelessWidget {
           SizedBox(height: 10),
           Text(
               'Boost creativity with our award wining play-bassed learning platform. Develop core skills-read, spell, pracive math, code, draw and more!'),
-          SizedBox(height: 50),
         ],
       ))),
     );
